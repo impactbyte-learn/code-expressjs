@@ -1,0 +1,29 @@
+{
+  "name": "learn-expressjs",
+  "version": "0.1.0",
+  "description": "Learn Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "mon": "nodemon index",
+    "dev": "node-dev index",
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impactbyte-network/learn-expressjs.git"
+  },
+  "keywords": [
+    "learn",
+    "expressjs",
+    "javascript",
+    "api",
+    "rest"
+  ],
+  "author": "M Haidar Hanif <npm@mhaidarhanif.com> (https://mhaidarhanif.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/impactbyte-network/learn-expressjs/issues"
+  },
+  "homepage": "https://github.com/impactbyte-network/learn-expressjs#readme"
+}

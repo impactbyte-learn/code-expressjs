@@ -1,7 +1,6 @@
 {
   "counter": 5,
-  "todos": [
-    {
+  "todos": [{
       "id": 1,
       "text": "Learn to code"
     },

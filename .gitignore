@@ -1,2 +1,4 @@
 node_modules
 data/todos.json
+package-lock.json
+.env

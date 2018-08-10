@@ -7,7 +7,7 @@ before_script:
   - yarn
   - greenkeeper-lockfile-update
 script:
-  - yarn start
+  - yarn test
 after_script:
   - greenkeeper-lockfile-upload
 cache:

@@ -28,7 +28,8 @@
   "homepage": "https://github.com/impactbyte-network/learn-expressjs#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "greenkeeper-lockfile": "1.15.1"
   },
   "devDependencies": {
     "node-dev": "^3.1.3",
